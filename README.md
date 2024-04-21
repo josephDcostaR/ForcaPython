@@ -1,6 +1,6 @@
 <h1>Criando o jogo da forca em programação procedural</h1>
 
-<h2>Para desenvolvimento usamos o paradigma procedural, aliado a linguagem python.</h2>
+<h2>Para desenvolvimento usamos o paradigma procedural, usando a linguagem de programação python.</h2>
 <h2>como jogar: </h2>
 <p>Faça download do código e execute em seu terminal. </p>
 
