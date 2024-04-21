@@ -2,11 +2,13 @@
 
 <h2>Para desenvolvimento usamos o paradigma procedural, usando a linguagem de programação python.</h2>
 <h2>Regras do Jogo: <h2>
-O jogador tem um número limitado de vidas.
-O jogador tenta adivinhar a palavra, inserindo uma letra por vez.
-Se o jogador adivinhar corretamente uma letra, ela é revelada na palavra.
-Se o jogador errar uma letra, ele perde uma vida.
-O jogo continua até que o jogador adivinhe a palavra correta ou perca todas as suas vidas.
+<ol>
+<li>O jogador tem um número limitado de vidas.</li>
+<li>O jogador tenta adivinhar a palavra, inserindo uma letra por vez.</li>
+<li>Se o jogador adivinhar corretamente uma letra, ela é revelada na palavra.</li>
+<li>Se o jogador errar uma letra, ele perde uma vida.</li>
+<li>O jogo continua até que o jogador adivinhe a palavra correta ou perca todas as suas vidas.</li>
+</ol>
   
 <h2>como jogar: </h2>
 <p>Faça download do código e execute em seu terminal. </p>
