@@ -1,0 +1,1 @@
+print(f"voce tem {vidas} chances")
