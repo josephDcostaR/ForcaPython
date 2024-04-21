@@ -24,4 +24,6 @@
 <h2>como jogar: </h2>
 <p>Não há necessidade de instalação. Basta baixar o código-fonte e executar em um ambiente Python. </p>
 
+<h2>Resultado: </h2>
+
 ![Captura de tela 2024-04-21 112947](https://github.com/josephDcostaR/ForcaPython/assets/87831574/d488136b-110e-4838-a69e-779453037d3f)
