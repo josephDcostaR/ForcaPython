@@ -11,12 +11,11 @@ def verificar_palavras(palavraSelecionada):
 def tentar_palavra():
     global vidas
     while vidas != 0:
-        print("""
-            Você tem 5 chances
-            -Caso erre perde 1 chance.
-            -Só é permitido 1 letra do alfabeto.
-            -Digite '0' para sair.
-              """)
+        print("Você tem 5 chances\n"
+         + "-Caso erre perde 1 chance.\n"
+         + "-Só é permitido 1 letra do alfabeto.\n"
+         + "-Digite '0' para sair.\n")
+      
         verificar_palavras(palavraSelecionada)
         tentativa = input("A palavra tem qual letra: ").strip()
         
